@@ -204,6 +204,7 @@ ________________________________________________________________________________
 - [Datanamic Data Generator for PostgreSQL](http://www.datanamic.com/datagenerator-for-postgresql)
 - [Databene Benerator](http://databene.org/databene-benerator)
 - [Mockaroo](http://www.mockaroo.com/)
+- [Mocki](https://mocki.io)
 - [FakeJSON](https://fakejson.com/)
 - [faker.rubyforge.org](http://faker.rubyforge.org/)
 - [random-data.rubyforge.org](http://random-data.rubyforge.org/)
